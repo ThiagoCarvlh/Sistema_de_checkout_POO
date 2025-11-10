@@ -1,8 +1,7 @@
 # 🛒 Demo POO - Sistema de Checkout Extensível
 
 Um projeto educacional que demonstra os 4 pilares da **Programação Orientada a Objetos (POO)** através de um sistema de e-commerce simplificado em Python.
-
-> **Autor:** `Thiago Carvalho Rodrigues`  
+ 
 > **Linguagem:** `Python 3.10+`  
 > **Paradigma:** `Orientado a Objetos`
 
