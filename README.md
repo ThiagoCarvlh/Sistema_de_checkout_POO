@@ -92,11 +92,9 @@ class PayPal(Pagamento):
         return True
         
 ```
-# O resto do seu código funciona sem NENHUMA alteração!
-Pronto. O polimorfismo cuida do resto. Isso é o que torna um sistema orientado a objetos robusto, manutenível e escalável.
+## 🔧 Conceitos Técnicos Aplicados
 
-🔧 Conceitos Técnicos Aplicados
-Classes abstratas (ABC e @abstractmethod)
+* Classes abstratas (ABC e @abstractmethod)
 
 * Herança e sobrescrita de métodos
 
