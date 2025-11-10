@@ -44,9 +44,7 @@ Este projeto foi desenhado para ser um exemplo didático dos 4 pilares da POO:
 
 1.  **Clone este repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    cd seu-repositorio
-    ```
+    git clone https://github.com/ThiagoCarvlh/Sistema_de_checkout_POO.git
 
 2.  **(Opcional, mas recomendado) Crie e ative um ambiente virtual:**
     ```bash
@@ -65,7 +63,9 @@ Este projeto foi desenhado para ser um exemplo didático dos 4 pilares da POO:
     python checkout.py
     ```
 
-## ▶️ Exemplo de Uso
+## ▶️ Demonstração em Vídeo
+
+![Demonstração do Sistema](demo/demo.gif)
 
 
 
