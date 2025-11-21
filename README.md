@@ -37,6 +37,11 @@ Este projeto foi desenhado para ser um exemplo didático dos 4 pilares da POO:
     * **Cartão de Crédito** (simula validação de limite)
     * **Boleto** (simula geração de linha digitável)
 
+
+## ▶️ Demonstração em Vídeo
+
+![Demonstração do Sistema](demo/demo.gif)
+
 ## 🚀 Como Executar o Projeto
 
 **Pré-requisitos:** Você precisa ter o [Python 3.10](https://www.python.org/downloads/) ou superior instalado.
@@ -61,13 +66,6 @@ Este projeto foi desenhado para ser um exemplo didático dos 4 pilares da POO:
     ```bash
     python checkout.py
     ```
-
-## ▶️ Demonstração em Vídeo
-
-![Demonstração do Sistema](demo/demo.gif)
-
-
-
 
 ## 💡 A Mágica da Extensibilidade
 
